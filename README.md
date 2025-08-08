@@ -1,21 +1,22 @@
 ## 👋 Hola, I'm Laura Ossorio Carballo
 
-I'm a molecular biologist turned bioinformatician, working at the intersection of experimental biology, computational science, and AI. With over 7 years of academic research and recent experience in a dynamic biotech startup, I bring a deep understanding of protein biology, immunology, and omics technologies, now enriched by machine learning and deep learning skills.
+I'm a Ph. D in molecular biology turned bioinformatician, working at the intersection of experimental biology, computational science, and AI. With over 7 years of academic research and recent experience in a dynamic biotech startup, I bring a deep understanding of protein biology, molecular interactions, immunology, and omics technologies, now enriched by machine learning and deep learning skills.
 
 I’m particularly passionate about applying data science to uncover meaningful patterns in complex biological datasets and using algorithms to advance our understanding of life at the molecular level.
 
 🔬 Currently working on:  
-**ImmunoReady**, a deep learning tool to predict tumour peptide immunogenicity, developed during the Le Wagon AI bootcamp.
+**ImmunoReady**, a deep learning tool to predict tumour peptide immunogenicity, started during the Le Wagon AI bootcamp.
 
 ---
 
-## 🧠 My interests
+## 💡 My interests
 - Bioinformatics & Computational Biology  
 - Deep Learning in Life Sciences  
 - Proteomics, Transcriptomics, Genomics
 - Immunology & Cancer Research
 - Plants 
-- Scientific Communication & Collaboration  
+- Scientific Communication & Collaboration
+- Running  
 
 ---
 
