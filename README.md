@@ -12,8 +12,9 @@ I’m particularly passionate about applying data science to uncover meaningful 
 ## 🧠 My interests
 - Bioinformatics & Computational Biology  
 - Deep Learning in Life Sciences  
-- Proteomics & Transcriptomics  
-- Immunology & Cancer Research  
+- Proteomics, Transcriptomics, Genomics
+- Immunology & Cancer Research
+- Plants 
 - Scientific Communication & Collaboration  
 
 ---
